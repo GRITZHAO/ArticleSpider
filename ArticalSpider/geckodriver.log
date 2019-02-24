@@ -1,0 +1,1041 @@
+1550456342128	geckodriver	INFO	geckodriver 0.19.1
+1550456342153	geckodriver	INFO	Listening on 127.0.0.1:52761
+1550456345229	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.EbhE21uUZwkp"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456346704	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456348752	Marionette	INFO	Listening on port 52770
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456350293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550456350335	Marionette	DEBUG	Register listener.js for window 4294967297
+1550456350350	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550456353726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550456353726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550456354534	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550456354715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550456359984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550456368554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 13456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Chilc, line 346
+d 14836,[Child 188 Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14836, Chrome_ChildThread] WARNING: pipe erro1550456543001	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1550456543007	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 10132, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 346
+[Child 21500, Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456533419	Marionette	INFO	Listening on port 52870
+1550456533582	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456533634	Marionette	DEBUG	Register listener.js for window 4294967297
+1550456533653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550456534795	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550456534796	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550456535681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550456535849	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550456541110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550456549630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[GPU 2420, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ath Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456866673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550456866740	Marionette	DEBUG	Register listener.js for window 4294967297
+1550456866763	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550456867267	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550456867267	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550456868080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550456868229	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550456873505	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550456881999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550456897013	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/signup"
+1550456897257	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/signup"
+1550456897257	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/signup"
+1550456897645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup?next=%2F"
+1550456897766	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup?next=%2F"
+[Parent 1592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13256, Chrome_ChildTh*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550456946732	geckodriver	INFO	geckodriver 0.19.1
+1550456946743	geckodriver	INFO	Listening on 127.0.0.1:53076
+1550456949830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.QEJcylRscUg7"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456950970	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21436,1550456952962	Marionette	INFO	Listening on port 53084
+1550456953054	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550456953116	Marionette	DEBUG	Register listener.js for window 4294967297
+1550456953137	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550456953545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550456953545	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550456954191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550456954355	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550456959642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550456968191	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550456983203	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/"
+1550456983571	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/"
+1550456983572	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/"
+1550456984367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1550456984753	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backe[Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13328, C[Child 15984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Channel closing: too late to send/recv, messages will be lost
+
+d 16140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16140, Chro[GPU 15264,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550457199148	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550457199148	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550457199926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550457200074	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550457205348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550457213816	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/signup"
+1550457214233	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/signup"
+1550457214235	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/signup"
+1550457214975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1550457215388	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1550457230411	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/"
+1550457230826	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/"
+1550457230827	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/"
+1550457231656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1550457232656	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.1c7aaced7331f3f89181.css.map not found or invalid
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+[Child 552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 552, Chrome_Chi[Child 12988, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12988, Chrome_[GPU 2065
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550457485472	geckodriver	INFO	geckodriver 0.19.1
+1550457485485	geckodriver	INFO	Listening on 127.0.0.1:53388
+1550457488604	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.nTdJInszPX6t"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550457489871	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23116Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550457491656	Marionette	INFO	Listening on port 53396
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550457491829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550457491886	Marionette	DEBUG	Register listener.js for window 4294967297
+1550457491933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550457492410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550457492411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550457492994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550457493189	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550457498461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550457506971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550457522037	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/"
+1550457522410	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/"
+1550457522411	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/"
+1550457523169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1550457524237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+[Parent 620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Child 19904, Ch346
+rome_ChildThrea[Child 21d] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc[GPU 17552, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+envr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550457580643	Marionette	INFO	Listening on port 53491
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550457580895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550457580939	Marionette	DEBUG	Register listener.js for window 4294967297
+1550457580962	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550457581363	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550457581363	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550457582129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550457582292	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550457587548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550457596080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550457611103	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/signup"
+1550457611318	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/signup"
+1550457611322	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/signup"
+1550457611737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup?next=%2F"
+1550457611937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup?next=%2F"
+[Parent 832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[Child 9364,392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11392, Chrome_ChildThread] WARNING: pipe e*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 16372, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550541875565	geckodriver	INFO	geckodriver 0.19.1
+1550541875588	geckodriver	INFO	Listening on 127.0.0.1:55181
+1550541878694	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.e71qSDj2radB"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550541880329	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550541882838	Marionette	INFO	Listening on port 55192
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550541883028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550541883088	Marionette	DEBUG	Register listener.js for window 4294967297
+1550541883126	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550541883794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550541883794	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550541884725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550541884897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550541890153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550541898708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550541913727	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/"
+1550541914196	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/"
+1550541914198	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/"
+1550541915119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1550541915641	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn0.child1/domnode41, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8532, Chrome_Chilconsole.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21132, Chrome_ChildUnable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14144, Chrome_Chconsole.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js, line 634: TypeError: inspector.selection is undefined
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.warn: Got a mutation for an unexpected actor: server1.conn6.child1/domnode33, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 767 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17016, Chrome_ChJavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+1550545400982	addons.xpi	WARN	Failed to remove temporary file C:\Users\86178\AppData\Local\Temp\tmp-ghd.xpi for addon https://addons.mozilla.org/firefox/downloads/file/961931/jsonview-2.0.1-an+fx.xpi?src=api: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: removeTemporaryFile :: line 1558"  data: no] Stack trace: removeTemporaryFile()@resource://gre/modules/addons/XPIInstall.jsm:1558 < startInstall/<()@resource://gre/modules/addons/XPIInstall.jsm:1907
+[Child 15032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15032, Chrome_ChildJavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18940, Chrome_Chconsole.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 47ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn10.child1/memoryActor11
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5028, ChUnable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3340, Chrome_ChildTUnable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22656, Chrome_Cconsole.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.2f4f03d856d3bd2772b0.css.map not found or invalid
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+8:7
+Line: 1690, column: 0
+[Child 13068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 22188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6804, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550904824132	geckodriver	INFO	geckodriver 0.19.1
+1550904824186	geckodriver	INFO	Listening on 127.0.0.1:52822
+1550904827393	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.Ge28FE4BmRp7"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550904830978	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21216, ChromeUnable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550904834095	Marionette	INFO	Listening on port 52835
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550904837802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550904837934	Marionette	DEBUG	Register listener.js for window 4294967297
+1550904837981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550904839464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550904839465	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550904845189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550904846087	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550904851479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550904860579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550904875629	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/signup"
+1550904876443	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/signup"
+1550904876446	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/signup"
+1550904877441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup?next=%2F"
+1550904878087	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup?next=%2F"
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550904926070	Marionette	INFO	Listening on port 52951
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550904926495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550904926567	Marionette	DEBUG	Register listener.js for window 4294967297
+1550904926595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550904927628	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550904927629	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550904934510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550904934900	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550904940325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550904949267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550904964296	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.zhihu.com/"
+1550904964917	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.zhihu.com/"
+1550904964918	Marionette	DEBUG	Received DOM event "unload" for "https://www.zhihu.com/"
+1550904967271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1550904969194	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+[Parent 6264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1700[0, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17000,[GPU 1438
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 181Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550907202709	Marionette	INFO	Listening on port 54056
+1550907202965	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550907203055	Marionette	DEBUG	Register listener.js for window 4294967297
+1550907203331	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550907204701	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550907204702	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550907207344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550907207681	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550907208337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550907209789	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550907974135	geckodriver	INFO	geckodriver 0.19.1
+1550907974164	geckodriver	INFO	Listening on 127.0.0.1:54499
+1550907977334	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.MFzMA2mXpzXs"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550907979946	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18272, Chrome_ChilUnable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550907982959	Marionette	INFO	Listening on port 54507
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550907983515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550907983695	Marionette	DEBUG	Register listener.js for window 4294967297
+1550907984024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550907985630	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550907985631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550907988168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550907988580	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550907989189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550907990757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550908061673	geckodriver	INFO	geckodriver 0.19.1
+1550908061698	geckodriver	INFO	Listening on 127.0.0.1:54604
+1550908064891	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.dPRSAMGJmX8P"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550908067713	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550908070434	Marionette	INFO	Listening on port 54614
+1550908070507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550908070588	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550908070952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550908072356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550908072357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550908075031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550908075337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550908075885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550908076972	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550923315989	geckodriver	INFO	geckodriver 0.19.1
+1550923316045	geckodriver	INFO	Listening on 127.0.0.1:62284
+1550923319359	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.FiAGfk452UAL"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550923322329	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550923325864	Marionette	INFO	Listening on port 62293
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550923326824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550923326938	Marionette	DEBUG	Register listener.js for window 4294967297
+1550923327363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550923328627	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550923328627	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550923331051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550923331417	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550923331772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550923332978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550923396320	geckodriver	INFO	geckodriver 0.19.1
+1550923396340	geckodriver	INFO	Listening on 127.0.0.1:62522
+1550923399520	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\86178\\AppData\\Local\\Temp\\rust_mozprofile.LXIJKJbFXo9i"
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550923402108	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 421Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550923405060	Marionette	INFO	Listening on port 62530
+Unable to read VR Path Registry from C:\Users\86178\AppData\Local\openvr\openvrpaths.vrpath
+1550923405536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550923405617	Marionette	DEBUG	Register listener.js for window 4294967297
+1550923405882	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550923407018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550923407019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550923409378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/signup"
+1550923409987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/signup"
+1550923410448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550923411649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
